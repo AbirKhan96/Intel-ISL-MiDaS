@@ -1,3 +1,9 @@
 # Intel-ISL-MiDaS
-![plot](https://raw.githubusercontent.com/AbirKhan96/Genesys_International_AI-ML/main/Track_A-Ladybug-1242_r.jpg)
-![alt text](https://raw.githubusercontent.com/AbirKhan96/Genesys_International_AI-ML/main/Track_A-Ladybug-1242_r.jpg)
+![plot]()
+- Create Python 3.6.9 virtual env
+    ```
+import torch
+midas = torch.hub.load("intel-isl/MiDaS", "MiDaS")
+midas.eval()
+    ```
+- run: `pip install torch torchvision torchaudio`
