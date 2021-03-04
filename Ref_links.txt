@@ -1,0 +1,5 @@
+https://pytorch.org/hub/intelisl_midas_v2/
+
+https://colab.research.google.com/github/pytorch/pytorch.github.io/blob/master/assets/hub/intelisl_midas_v2.ipynb#scrollTo=kxXMnQKJneRw
+
+https://github.com/intel-isl/MiDaS
