@@ -1,2 +1,2 @@
 # Intel-ISL-MiDaS
-![plot](C:/Users/Abir Khan/Desktop/midas_samples.png)
+![plot](https://raw.githubusercontent.com/AbirKhan96/Genesys_International_AI-ML/main/Track_A-Ladybug-1242_r.jpg)
