@@ -1,6 +1,6 @@
 # Intel-ISL-MiDaS
 ## The MiDaS v2.1 model for computing relative depth from a single image.
-![plot](https://raw.githubusercontent.com/AbirKhan96/Intel-ISL-MiDaS/main/midas_samples.png,{:height="50%" width="50%"})
+![plot](https://raw.githubusercontent.com/AbirKhan96/Intel-ISL-MiDaS/main/midas_samples.png, {:height="50%" width="50%"})
 - Create Python 3.6.9 virtual env
     ```
     import torch
