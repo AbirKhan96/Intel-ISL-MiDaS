@@ -1,6 +1,6 @@
 # Intel-ISL-MiDaS
 ## The MiDaS v2.1 model for computing relative depth from a single image.
-### Research Paper : https://raw.githubusercontent.com/AbirKhan96/Intel-ISL-MiDaS/main/Towards%20Robust%20Monocular%20Depth%20Estimation%20Mixing%20Datasets%20for%20Zero-shot%20Cross-dataset%20Transfer.pdf
+### Research Paper : ``` https://arxiv.org/abs/1907.01341 ```
 ![plot](https://raw.githubusercontent.com/AbirKhan96/Intel-ISL-MiDaS/main/midas_samples.png)
 - Create Python 3.6.9 virtual env
     ```
@@ -69,5 +69,6 @@
 - Show result
     ```
     plt.imshow(output)
+    plt.imsave( 'filename1.jpg', output)
     ```
 
