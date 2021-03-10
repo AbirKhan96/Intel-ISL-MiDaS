@@ -1,8 +1,6 @@
 # Intel-ISL-MiDaS
 ## The MiDaS v2.1 model for computing relative depth from a single image.
-### Research Paper : ``` https://arxiv.org/abs/1907.01341 ```
-- CODE :
-- 
+### :page_facing_up: Research Paper : ``` https://arxiv.org/abs/1907.01341 ```
 ![plot](https://raw.githubusercontent.com/AbirKhan96/Intel-ISL-MiDaS/main/midas_samples.png)
 - Create Python 3.6.9 virtual env
     ```
